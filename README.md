@@ -1,4 +1,4 @@
-# FirstLesson
+# Lesson2
 
 ## Project structure
 
